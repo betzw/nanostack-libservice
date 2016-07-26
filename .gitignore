@@ -1,1 +1,4 @@
 output/*
+
+# betzw
+source/nsdynmemLIB/nsdynmemLIB.c.*
